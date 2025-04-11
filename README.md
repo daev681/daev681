@@ -6,6 +6,15 @@
 
 ---
 
+## 🚀 Side Projects
+
+| 이름 | 설명 | 링크 |
+|------|------|------|
+| **채팅 웹 애플리케이션** | Node.js API 서버, Java 기반 토큰 발급/검증 서버, React (Redux 사용), Java REST API 서버 구성의 실시간 채팅 시스템 | [GitHub 바로가기](https://github.com/daev681/token-auth-system) |
+| **MSA 통합 웹 플랫폼 (코딩 테스트 스트리밍)** | React 프론트엔드, Go API Gateway, Java REST API 서버, Redis, Docker, K8s, SFU 기반 스트리밍 지원 | [GitHub 바로가기](https://github.com/daev681/token-auth-system) |
+| **비행기 시뮬레이션 오픈월드 프로젝트** | Unity3D, IOCP, Protocol Buffers, Python 기반 자동 패킷 변환 시스템 적용 | [GitHub 바로가기](https://github.com/daev681/realtime-game-server) |
+
+
 ## Tech Stack
 
 ### Languages
