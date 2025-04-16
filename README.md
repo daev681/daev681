@@ -4,7 +4,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daev681&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daev681&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=integrated-platform&show_icons=true&theme=radical" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=covengers-douzone&show_icons=true&theme=radical" />
+  <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=unity3D-flight-openworld&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -17,8 +21,3 @@
 
 ---
 
-## 📫 연락처 (Contact)
-- Email: **daev681@gmail.com**
-- Blog: [블로그 링크 또는 기타](#)
-
----
