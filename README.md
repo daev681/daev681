@@ -17,14 +17,4 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=daev681&theme=radical" />
   <br>
 
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=daev681&theme=radical&column=4&margin-w=15&margin-h=15" />
-  <br>
-
-  <!-- GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/daev681?template=classic&languages=1&achievements=1&stars=1&repos=1&commits=1&base=header%2Cfooter&languages.colors=github&languages.limit=8&achievements.threshold=C&stars.limit=4" />
-  <br>
-  
-  <!-- Profile Views Counter -->
-  ![Profile views](https://komarev.com/ghpvc/?username=daev681&color=brightgreen)
 </p>
