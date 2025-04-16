@@ -1,23 +1,30 @@
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daev681&show_icons=true&theme=radical" />
+  <!-- GitHub Stats: 사용자 통계 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=daev681&show_icons=true&count_private=true&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=integrated-platform&show_icons=true&theme=radical" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=covengers-douzone&show_icons=true&theme=radical" />
+
+  <!-- GitHub Top Languages: 가장 많이 사용한 언어 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daev681&layout=compact&theme=radical" />
   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=unity3D-flight-openworld&show_icons=true&theme=radical" />
+
+  <!-- GitHub Streaks: 연속 커밋 활동 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daev681&theme=radical" />
+  <br>
+
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=daev681&theme=radical" />
+  <br>
+
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=daev681&theme=radical&column=4&margin-w=15&margin-h=15" />
+  <br>
+
+  <!-- GitHub Metrics -->
+  <img src="https://metrics.lecoq.io/daev681?template=classic&languages=1&achievements=1&stars=1&repos=1&commits=1&base=header%2Cfooter&languages.colors=github&languages.limit=8&achievements.threshold=C&stars.limit=4" />
+  <br>
+  
+  <!-- Profile Views Counter -->
+  ![Profile views](https://komarev.com/ghpvc/?username=daev681&color=brightgreen)
 </p>
-
----
-
-## 🌱 잔디 애니메이션
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daev681/daev681/output/github-contribution-grid-snake.svg" alt="지렁이 애니메이션" />
-</p>
-
----
-
