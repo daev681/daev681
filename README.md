@@ -8,7 +8,8 @@
   <br>
 
   <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daev681&layout=compact&theme=radical&hide=html,css,c%23)
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=daev681&layout=compact&theme=radical&hide=html,css,c%23,makefile,asp%2enet" />
+
   <br>
 
 
