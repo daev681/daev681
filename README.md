@@ -18,10 +18,7 @@
 - **부동산 사기 예방**: 계약 전에 전세·부동산 사기를 확인하고 피할 수 있도록 돕는 서비스
 - **치매 예방**: 두뇌를 활발하고 건강하게 유지하도록 돕는 인지 훈련 서비스
 
-### 앞으로의 계획
-게임 분야로도 영역을 넓혀, **Steam** 플랫폼에서 게임 서비스를 운영할 계획입니다.
-
-외주와 프리랜서 문의는 언제든 환영합니다. 아이디어부터 출시까지 맡길 개발자를 찾으신다면 편하게 연락 주세요!
+📧 문의사항이 있으시면 [daev681@gmail.com](mailto:daev681@gmail.com)으로 연락 주세요.
 
 ---
 
@@ -37,10 +34,7 @@ My main business is developing and publishing applications. I handle the entire 
 - **Real Estate Fraud Prevention**: helps users spot and avoid rental and property scams before signing
 - **Dementia Prevention**: cognitive training designed to keep the mind active and healthy
 
-### What's Next
-I'm also expanding into games and plan to launch and operate game services on the **Steam** platform.
-
-I'm always open to outsourcing and freelance opportunities. If you need a developer who can take a service from idea to launch, let's connect!
+📧 For any inquiries, please contact me at [daev681@gmail.com](mailto:daev681@gmail.com).
 
 ---
 
@@ -56,10 +50,7 @@ I'm always open to outsourcing and freelance opportunities. If you need a develo
 - **不動産詐欺防止**：契約前に賃貸・不動産詐欺を見抜き、被害を防ぐためのサービス
 - **認知症予防**：脳を活発で健康に保つための認知トレーニングサービス
 
-### 今後の計画
-ゲーム分野にも事業を広げ、**Steam**プラットフォームでゲームサービスを運営する予定です。
-
-外注・フリーランスのご依頼はいつでも歓迎です。アイデアからリリースまで任せられる開発者をお探しでしたら、お気軽にご連絡ください！
+📧 お問い合わせは [daev681@gmail.com](mailto:daev681@gmail.com) までご連絡ください。
 
 ---
 
@@ -75,7 +66,4 @@ I'm always open to outsourcing and freelance opportunities. If you need a develo
 - **房地產詐騙防範**：在簽約前協助使用者辨識並避開租屋與房地產詐騙
 - **失智症預防**：透過認知訓練，幫助大腦保持活躍與健康
 
-### 未來規劃
-我也正將事業拓展至遊戲領域，計劃在 **Steam** 平台上營運遊戲服務。
-
-隨時歡迎外包與接案合作的洽詢。如果您正在尋找一位能從構想到上線一手包辦的開發者，歡迎與我聯繫！
+📧 如有任何問題，歡迎來信至 [daev681@gmail.com](mailto:daev681@gmail.com)。
